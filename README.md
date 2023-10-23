@@ -8,3 +8,5 @@ Este sistema oferece funcionalidades abrangentes, incluindo cadastro, edição e
 Enfatizamos a funcionalidade do projeto não foi muito cobrado o design, priorizando a demonstração clara da implementação do sistema de login.
 
 O projeto está organizado em três diretórios. O diretório "Cadastro" contém a implementação do sistema desenvolvido, enquanto o diretório "Projeto" contém os requisitos e informações detalhadas sobre o escopo e os objetivos do projeto.
+
+Todos os Direitos Reservados a Carlos Afonso
